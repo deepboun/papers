@@ -3,7 +3,7 @@ List of papers that we discuss during the sessions.
 
 
 ## Upcoming Papers
-* Learning to learn by gradient descent by gradient descent, Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas, NIPS 2016
+* "Learning to learn by gradient descent by gradient descent" by Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas; NIPS 2016
 
   **Presenter** : Arda Celebi
 
