@@ -4,11 +4,11 @@ List of papers that we discuss during the sessions.
 
 ## Upcoming Papers
 * Learning to learn by Arda Celebi
-** In short: Optimization algorithms are still designed by hand. In this paper we show how the design of an optimization algorithm can be cast as a learning problem, allowing the algorithm to learn to exploit structure in the problems of interest in an automatic way.
+  **In short**: Optimization algorithms are still designed by hand. In this paper we show how the design of an optimization algorithm can be cast as a learning problem, allowing the algorithm to learn to exploit structure in the problems of interest in an automatic way.
 
-  ** Paper** : https://arxiv.org/abs/1606.04474
+  **Paper** : https://arxiv.org/abs/1606.04474
   
-  ** Github** : https://github.com/deepmind/learning-to-learn
+  **Github** : https://github.com/deepmind/learning-to-learn
 
 ## Previous Papers
 * (19/01/2017):scroll: **[Relation Extraction: Perspective from Convolutional Neural Networks](http://aclanthology.info/papers/relation-extraction-perspective-from-convolutional-neural-networks)**
