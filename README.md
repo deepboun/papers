@@ -3,7 +3,9 @@ List of papers that we discuss during the sessions.
 
 
 ## Upcoming Papers
-* Learning to learn by Arda Celebi
+* Learning to learn by gradient descent by gradient descent, Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas, NIPS 2016
+
+  **Presenter** : Arda Celebi
 
   **In short** : Optimization algorithms are still designed by hand. In this paper we show how the design of an optimization algorithm can be cast as a learning problem, allowing the algorithm to learn to exploit structure in the problems of interest in an automatic way.
 
