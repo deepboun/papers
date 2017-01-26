@@ -12,6 +12,8 @@ List of papers that we discuss during the sessions.
   **Paper** : https://arxiv.org/abs/1606.04474
   
   **Github** : https://github.com/deepmind/learning-to-learn
+  
+  **Date**: TBA
 
 ## Previous Papers
 * (19/01/2017):scroll: **[Relation Extraction: Perspective from Convolutional Neural Networks](http://aclanthology.info/papers/relation-extraction-perspective-from-convolutional-neural-networks)**
