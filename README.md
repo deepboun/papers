@@ -19,7 +19,7 @@ List of papers that we discuss during the sessions.
   
   * (TBA):scroll: **[A Convolutional Neural Network for Modelling Sentences](http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences)**
 
-  **Citation:** Nal Kalchbrenner, Edward Grefenstette and Phil Blun- som. 2014. A Convolutional Neural Network for Mod- elling Sentences. In Proceedings of ACL 2014.
+  **Citation:** Nal Kalchbrenner, Edward Grefenstette and Phil Blunsom. 2014. A Convolutional Neural Network for Modelling Sentences. In Proceedings of ACL 2014.
 
   **One sentence from Abstract:** We describe a convolutional architecture dubbed the Dynamic Convolutional Neural Network (DCNN) that we adopt for the semantic modelling of sentences. The network uses Dynamic k-Max Pooling, a global pooling operation over linear sequences. The network handles input sentences of varying length and induces a feature graph over the sentence that is capable of explicitly capturing short and long-range relations. 
 
