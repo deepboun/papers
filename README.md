@@ -16,6 +16,18 @@ List of papers that we discuss during the sessions.
   **Date**: TBA
 
 ## Previous Papers
+* (26/01/2017):scroll: **[Collaborative Deep Learning For Recommender Systems](http://dl.acm.org/citation.cfm?id=2783273)**
+
+  **Citation:** H. Wang, N. Wang, and D. Yeung. Collaborative deep learning for recommender systems. In KDD, 2015.
+
+  **From Abstract:** We generalize recent advances in deep learning from i.i.d. input to non-i.i.d. (CF-based) input and propose in this paper a hierarchical Bayesian model called collaborative deep learning (CDL), which jointly performs deep representation learning for the content information and collaborative filtering for the ratings (feedback) matrix.
+
+  **Link:** http://dl.acm.org/citation.cfm?id=2783273
+  
+  **More info:** [Related Material](http://www.wanghao.in/publication.html) 
+
+
+
 * (19/01/2017):scroll: **[Relation Extraction: Perspective from Convolutional Neural Networks](http://aclanthology.info/papers/relation-extraction-perspective-from-convolutional-neural-networks)**
 
   **Citation:** Thien Huu Nguyen and Ralph Grishman. 2015a. Relation extraction: Perspective from convolutional neural networks. In The NAACL Workshop on Vector Space Modeling for NLP (VSM).
