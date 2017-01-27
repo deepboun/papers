@@ -27,7 +27,7 @@ List of papers that we discuss during the sessions.
 
   **Link:** http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences
   
-  **More info:** [Code](http://phd.nal.co/DCNN) 
+  **More info:** [Code](http://phd.nal.co/DCNN) [Theano implementation](https://github.com/FredericGodin/DynamicCNN) [A Sentiment Analysis tool written in Theono+Tornado](https://github.com/xiaohan2012/twitter-sent-dnn)
 
 ## Previous Papers
 * (26/01/2017):scroll: **[Collaborative Deep Learning For Recommender Systems](http://dl.acm.org/citation.cfm?id=2783273)**
