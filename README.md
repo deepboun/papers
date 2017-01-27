@@ -1,8 +1,39 @@
 # Papers 
-List of papers that we discuss during the sessions.
+List of papers that we will or did discuss during the sessions.
+
+## Upcoming
+
+| Date        | Title           | Presenter  |
+| ------------- |:-------------:| -----:|
+| 02/02/2017      | Understanding Neural Networks through Representation Erasure | Onur Gungor |
+| TBA | Learning to learn by gradient descent by gradient descent | Arda Celebi |
+| TBA | A Convolutional Neural Network for Modelling Sentences | Çağıl Sönmez |
+
+## Past
+
+| Date        | Title           | Presenter  |
+| ------------- |:-------------:| -----:|
+| 26/01/2017      | Collaborative Deep Learning For Recommender Systems | Mine Öğretir |
+| 19/01/2017 | Relation Extraction: Perspective from Convolutional Neural Networks | Çağıl Sönmez |
 
 
-## Upcoming Papers
+
+## Detailed List of Papers
+* :scroll: Understanding Neural Networks through Representation Erasure
+
+  **Presenter** : Onur Gungor
+
+  **In short** : 'In this paper, we propose a general methodology to analyze and interpret decisions from a neural model by observing the effects on the model of erasing various parts of the representation, such as input word-vector dimensions, intermediate hidden units, or input words.'
+
+  **Paper** : https://arxiv.org/abs/1612.08220
+  
+  **Date**: 2 February 2017
+  
+  **Reference**: Li, J., Monroe, W., & Jurafsky, D. (2016). Understanding Neural Networks through Representation Erasure. arXiv preprint arXiv:1612.08220.
+  
+  ---------------
+
+
 * "Learning to learn by gradient descent by gradient descent" by Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas; NIPS 2016
 
   **Presenter** : Arda Celebi
@@ -29,7 +60,6 @@ List of papers that we discuss during the sessions.
   
   **More info:** [Code](http://phd.nal.co/DCNN) [Theano implementation](https://github.com/FredericGodin/DynamicCNN) [A Sentiment Analysis tool written in Theono+Tornado](https://github.com/xiaohan2012/twitter-sent-dnn)
 
-## Previous Papers
 * (26/01/2017):scroll: **[Collaborative Deep Learning For Recommender Systems](http://dl.acm.org/citation.cfm?id=2783273)**
 
   **Citation:** H. Wang, N. Wang, and D. Yeung. Collaborative deep learning for recommender systems. In KDD, 2015.
