@@ -14,6 +14,20 @@ List of papers that we discuss during the sessions.
   **Github** : https://github.com/deepmind/learning-to-learn
   
   **Date**: TBA
+  
+  ---------------
+  
+  * (TBA):scroll: **[A Convolutional Neural Network for Modelling Sentences](http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences)**
+
+  **Citation:** Nal Kalchbrenner, Edward Grefenstette and Phil Blun- som. 2014. A Convolutional Neural Network for Mod- elling Sentences. In Proceedings of ACL 2014.
+
+  **One sentence from Abstract:** We describe a convolutional architecture dubbed the Dynamic Convolutional Neural Network (DCNN) that we adopt for the semantic modelling of sentences. The network uses Dynamic k-Max Pooling, a global pooling operation over linear sequences. The network handles input sentences of varying length and induces a feature graph over the sentence that is capable of explicitly capturing short and long-range relations. 
+
+  **Presenter:** Çağıl Sönmez
+
+  **Link:** http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences
+  
+  **More info:** [Code](http://phd.nal.co/DCNN) 
 
 ## Previous Papers
 * (26/01/2017):scroll: **[Collaborative Deep Learning For Recommender Systems](http://dl.acm.org/citation.cfm?id=2783273)**
@@ -38,6 +52,6 @@ List of papers that we discuss during the sessions.
   
   **More info:** [Implementation](https://github.com/hadyelsahar/CNN-RelationExtraction) 
 
-* (19/01/2017)
+* (26/01/2017)
 
 
