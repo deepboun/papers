@@ -19,7 +19,8 @@ List of papers that we will or did discuss during the sessions.
 
 
 ## Detailed List of Papers
-* :scroll: Understanding Neural Networks through Representation Erasure
+
+### :scroll: Understanding Neural Networks through Representation Erasure
 
   **Presenter** : Onur Gungor
 
@@ -34,7 +35,7 @@ List of papers that we will or did discuss during the sessions.
   ---------------
 
 
-* "Learning to learn by gradient descent by gradient descent" by Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas; NIPS 2016
+### "Learning to learn by gradient descent by gradient descent" by Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas; NIPS 2016
 
   **Presenter** : Arda Celebi
 
@@ -48,7 +49,7 @@ List of papers that we will or did discuss during the sessions.
   
   ---------------
   
-  * (TBA):scroll: **[A Convolutional Neural Network for Modelling Sentences](http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences)**
+  ### (TBA):scroll: **[A Convolutional Neural Network for Modelling Sentences](http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences)**
 
   **Citation:** Nal Kalchbrenner, Edward Grefenstette and Phil Blunsom. 2014. A Convolutional Neural Network for Modelling Sentences. In Proceedings of ACL 2014.
 
@@ -60,7 +61,7 @@ List of papers that we will or did discuss during the sessions.
   
   **More info:** [Code](http://phd.nal.co/DCNN) [Theano implementation](https://github.com/FredericGodin/DynamicCNN) [A Sentiment Analysis tool written in Theono+Tornado](https://github.com/xiaohan2012/twitter-sent-dnn)
 
-* (26/01/2017):scroll: **[Collaborative Deep Learning For Recommender Systems](http://dl.acm.org/citation.cfm?id=2783273)**
+### (26/01/2017):scroll: **[Collaborative Deep Learning For Recommender Systems](http://dl.acm.org/citation.cfm?id=2783273)**
 
   **Citation:** H. Wang, N. Wang, and D. Yeung. Collaborative deep learning for recommender systems. In KDD, 2015.
 
@@ -81,7 +82,3 @@ List of papers that we will or did discuss during the sessions.
   **Link:** http://aclanthology.info/papers/relation-extraction-perspective-from-convolutional-neural-networks
   
   **More info:** [Implementation](https://github.com/hadyelsahar/CNN-RelationExtraction) 
-
-* (26/01/2017)
-
-
