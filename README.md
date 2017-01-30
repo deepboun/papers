@@ -5,7 +5,7 @@ List of papers that we will or did discuss during the sessions.
 
 | Date        | Title           | Presenter  |
 | ------------- |:-------------:| -----:|
-| 02/02/2017      | Understanding Neural Networks through Representation Erasure | Onur Gungor |
+| [02/02/2017](README.md#scroll-understanding-neural-networks-through-representation-erasure)      | Understanding Neural Networks through Representation Erasure | Onur Gungor |
 | TBA | Learning to learn by gradient descent by gradient descent | Arda Celebi |
 | TBA | A Convolutional Neural Network for Modelling Sentences | Çağıl Sönmez |
 
@@ -20,7 +20,7 @@ List of papers that we will or did discuss during the sessions.
 
 ## Detailed List of Papers
 
-### :scroll: Understanding Neural Networks through Representation Erasure
+### (02/02/2017) :scroll: Understanding Neural Networks through Representation Erasure
 
   **Citation** :
   
@@ -53,8 +53,7 @@ List of papers that we will or did discuss during the sessions.
   
   ---------------
   
-  
-  ### (TBA):scroll: **[A Convolutional Neural Network for Modelling Sentences](http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences)**
+### (TBA):scroll: **[A Convolutional Neural Network for Modelling Sentences](http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences)**
 
   **Citation:** Nal Kalchbrenner, Edward Grefenstette and Phil Blunsom. 2014. A Convolutional Neural Network for Modelling Sentences. In Proceedings of ACL 2014.
 
