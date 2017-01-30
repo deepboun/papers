@@ -18,7 +18,7 @@ List of papers that we will or did discuss during the sessions.
 
 
 
-## Detailed List of Papers
+## Detailed List of Papers Upcoming
 
 ### (02/02/2017) :scroll: Understanding Neural Networks through Representation Erasure
 
@@ -34,8 +34,6 @@ List of papers that we will or did discuss during the sessions.
   
   **Reference**: Li, J., Monroe, W., & Jurafsky, D. (2016). Understanding Neural Networks through Representation Erasure. arXiv preprint arXiv:1612.08220.
   
-  ---------------
-
 
 ### (TBA):scroll: Learning to learn by gradient descent by gradient descent 
 
@@ -51,7 +49,6 @@ List of papers that we will or did discuss during the sessions.
   
   **Date**: TBA
   
-  ---------------
   
 ### (TBA):scroll: **[A Convolutional Neural Network for Modelling Sentences](http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences)**
 
@@ -66,17 +63,7 @@ List of papers that we will or did discuss during the sessions.
   **More info:** [Code](http://phd.nal.co/DCNN) [Theano implementation](https://github.com/FredericGodin/DynamicCNN) [A Sentiment Analysis tool written in Theono+Tornado](https://github.com/xiaohan2012/twitter-sent-dnn)
 
 
-### (26/01/2017):scroll: **[Collaborative Deep Learning For Recommender Systems](http://dl.acm.org/citation.cfm?id=2783273)**
-
-  **Citation:** H. Wang, N. Wang, and D. Yeung. Collaborative deep learning for recommender systems. In KDD, 2015.
-
-  **From Abstract:** We generalize recent advances in deep learning from i.i.d. input to non-i.i.d. (CF-based) input and propose in this paper a hierarchical Bayesian model called collaborative deep learning (CDL), which jointly performs deep representation learning for the content information and collaborative filtering for the ratings (feedback) matrix.
-
-  **Link:** http://dl.acm.org/citation.cfm?id=2783273
-  
-  **More info:** [Related Material](http://www.wanghao.in/publication.html) 
-
-
+## Detailed List of Papers Past
 
 ### (19/01/2017):scroll: **[Relation Extraction: Perspective from Convolutional Neural Networks](http://aclanthology.info/papers/relation-extraction-perspective-from-convolutional-neural-networks)**
 
@@ -87,3 +74,13 @@ List of papers that we will or did discuss during the sessions.
   **Link:** http://aclanthology.info/papers/relation-extraction-perspective-from-convolutional-neural-networks
   
   **More info:** [Implementation](https://github.com/hadyelsahar/CNN-RelationExtraction) 
+  
+### (26/01/2017):scroll: **[Collaborative Deep Learning For Recommender Systems](http://dl.acm.org/citation.cfm?id=2783273)**
+
+  **Citation:** H. Wang, N. Wang, and D. Yeung. Collaborative deep learning for recommender systems. In KDD, 2015.
+
+  **From Abstract:** We generalize recent advances in deep learning from i.i.d. input to non-i.i.d. (CF-based) input and propose in this paper a hierarchical Bayesian model called collaborative deep learning (CDL), which jointly performs deep representation learning for the content information and collaborative filtering for the ratings (feedback) matrix.
+
+  **Link:** http://dl.acm.org/citation.cfm?id=2783273
+  
+  **More info:** [Related Material](http://www.wanghao.in/publication.html) 
