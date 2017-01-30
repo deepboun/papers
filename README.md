@@ -13,7 +13,7 @@ List of papers that we will or did discuss during the sessions.
 
 | Date        | Title           | Presenter  |
 | ------------- |:-------------:| -----:|
-| 26/01/2017      | Collaborative Deep Learning For Recommender Systems | Mine Öğretir |
+| [26/01/2017](README.md#26012017scroll-collaborative-deep-learning-for-recommender-systems)      | Collaborative Deep Learning For Recommender Systems | Mine Öğretir |
 | [19/01/2017](README.md#19012017scroll-relation-extraction-perspective-from-convolutional-neural-networks) | Relation Extraction: Perspective from Convolutional Neural Networks | Çağıl Sönmez |
 
 
@@ -22,6 +22,8 @@ List of papers that we will or did discuss during the sessions.
 
 ### :scroll: Understanding Neural Networks through Representation Erasure
 
+  **Citation** :
+  
   **Presenter** : Onur Gungor
 
   **In short** : 'In this paper, we propose a general methodology to analyze and interpret decisions from a neural model by observing the effects on the model of erasing various parts of the representation, such as input word-vector dimensions, intermediate hidden units, or input words.'
@@ -35,7 +37,9 @@ List of papers that we will or did discuss during the sessions.
   ---------------
 
 
-### "Learning to learn by gradient descent by gradient descent" by Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas; NIPS 2016
+### (TBA):scroll: Learning to learn by gradient descent by gradient descent 
+
+  **Citation** : Learning to learn by gradient descent by gradient descent by Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas; NIPS 2016
 
   **Presenter** : Arda Celebi
 
@@ -49,6 +53,7 @@ List of papers that we will or did discuss during the sessions.
   
   ---------------
   
+  
   ### (TBA):scroll: **[A Convolutional Neural Network for Modelling Sentences](http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences)**
 
   **Citation:** Nal Kalchbrenner, Edward Grefenstette and Phil Blunsom. 2014. A Convolutional Neural Network for Modelling Sentences. In Proceedings of ACL 2014.
@@ -60,6 +65,7 @@ List of papers that we will or did discuss during the sessions.
   **Link:** http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences
   
   **More info:** [Code](http://phd.nal.co/DCNN) [Theano implementation](https://github.com/FredericGodin/DynamicCNN) [A Sentiment Analysis tool written in Theono+Tornado](https://github.com/xiaohan2012/twitter-sent-dnn)
+
 
 ### (26/01/2017):scroll: **[Collaborative Deep Learning For Recommender Systems](http://dl.acm.org/citation.cfm?id=2783273)**
 
