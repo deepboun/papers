@@ -72,7 +72,7 @@ List of papers that we will or did discuss during the sessions.
 
 
 
-* (19/01/2017):scroll: **[Relation Extraction: Perspective from Convolutional Neural Networks](http://aclanthology.info/papers/relation-extraction-perspective-from-convolutional-neural-networks)**
+### (19/01/2017):scroll: **[Relation Extraction: Perspective from Convolutional Neural Networks](http://aclanthology.info/papers/relation-extraction-perspective-from-convolutional-neural-networks)**
 
   **Citation:** Thien Huu Nguyen and Ralph Grishman. 2015a. Relation extraction: Perspective from convolutional neural networks. In The NAACL Workshop on Vector Space Modeling for NLP (VSM).
 
