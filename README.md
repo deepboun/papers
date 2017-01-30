@@ -5,7 +5,7 @@ List of papers that we will or did discuss during the sessions.
 
 | Date        | Title           | Presenter  |
 | ------------- |:-------------:| -----:|
-| [02/02/2017](README.md#scroll-understanding-neural-networks-through-representation-erasure)      | Understanding Neural Networks through Representation Erasure | Onur Gungor |
+| [02/02/2017](README.md#02022017-scroll-understanding-neural-networks-through-representation-erasure)      | Understanding Neural Networks through Representation Erasure | Onur Gungor |
 | TBA | Learning to learn by gradient descent by gradient descent | Arda Celebi |
 | TBA | A Convolutional Neural Network for Modelling Sentences | Çağıl Sönmez |
 
