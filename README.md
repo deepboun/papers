@@ -14,7 +14,7 @@ List of papers that we will or did discuss during the sessions.
 | Date        | Title           | Presenter  |
 | ------------- |:-------------:| -----:|
 | 26/01/2017      | Collaborative Deep Learning For Recommender Systems | Mine Öğretir |
-| 19/01/2017 | Relation Extraction: Perspective from Convolutional Neural Networks | Çağıl Sönmez |
+| [19/01/2017](README.md#19012017scroll-relation-extraction-perspective-from-convolutional-neural-networks) | Relation Extraction: Perspective from Convolutional Neural Networks | Çağıl Sönmez |
 
 
 
