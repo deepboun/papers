@@ -12,10 +12,10 @@ List of papers that we will or did discuss during the sessions.
 
 | Date        | Title           | Presenter  |
 | ------------- |:-------------:| -----:|
-| [23/03/2017](README.md#26012017scroll-collaborative-deep-learning-for-recommender-systems)      | Skip-Thought Vectors | Arda Çelebi |
-| [16/03/2017](README.md#26012017scroll-collaborative-deep-learning-for-recommender-systems)      | Understanding Deep Learning Requires Rethinking Generalization | Miraç Göksu Öztürk |
-| [09/03/2017](README.md#26012017scroll-collaborative-deep-learning-for-recommender-systems)      | Learning to learn by gradient descent by gradient descent | Arda Celebi |
-| [03/02/2017](README.md#26012017scroll-collaborative-deep-learning-for-recommender-systems)      | Hierarchical Attention Networks for Document Classification | Çağıl Sönmez |
+| [23/03/2017](README.md#16032017scroll-skip-thought-vectors)      | Skip-Thought Vectors | Arda Çelebi |
+| [16/03/2017](README.md#16032017scroll-understanding-deep-learning-requires-rethinking-generalization)      | Understanding Deep Learning Requires Rethinking Generalization | Miraç Göksu Öztürk |
+| [09/03/2017](README.md#09032017scroll-learning-to-learn-by-gradient-descent-by-gradient-descent)      | Learning to learn by gradient descent by gradient descent | Arda Celebi |
+| [03/02/2017](README.md#02032017-scroll-hierarchical-attention-networks-for-document-classification)      | Hierarchical Attention Networks for Document Classification | Çağıl Sönmez |
 | [02/02/2017](README.md#26012017scroll-collaborative-deep-learning-for-recommender-systems)      | Understanding Neural Networks through Representation Erasure | Onur Gungor |
 | [26/01/2017](README.md#26012017scroll-collaborative-deep-learning-for-recommender-systems)      | Collaborative Deep Learning For Recommender Systems | Mine Öğretir |
 | [19/01/2017](README.md#19012017scroll-relation-extraction-perspective-from-convolutional-neural-networks) | Relation Extraction: Perspective from Convolutional Neural Networks | Çağıl Sönmez |
@@ -84,7 +84,7 @@ List of papers that we will or did discuss during the sessions.
 
   **Link** : http://aclanthology.info/papers/hierarchical-attention-networks-for-document-classification
 
-### (09/03/2017):scroll: **Learning to learn by gradient descent by gradient descent(https://arxiv.org/abs/1606.04474)**
+### (09/03/2017):scroll: **[Learning to learn by gradient descent by gradient descent](https://arxiv.org/abs/1606.04474)**
 
   **Citation** : Learning to learn by gradient descent by gradient descent by Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, Nando de Freitas; NIPS 2016
 
@@ -94,7 +94,7 @@ List of papers that we will or did discuss during the sessions.
   
   **More info** :[Implementation](https://github.com/deepmind/learning-to-learn)
   
-### (16/03/2017):scroll: **Understanding Deep Learning Requires Rethinking Generalization(https://arxiv.org/abs/1611.03530)**
+### (16/03/2017):scroll: **[Understanding Deep Learning Requires Rethinking Generalization](https://arxiv.org/abs/1611.03530)**
 
   **Citation** : Chiyuan Zhang, Samy Bengio, Moritz Hardt, Benjamin Recht, Oriol Vinyals. ICLR 2017.
 
@@ -102,7 +102,7 @@ List of papers that we will or did discuss during the sessions.
 
   **Link** : https://arxiv.org/abs/1611.03530
   
- ### (16/03/2017):scroll: **Skip-Thought Vectors(https://arxiv.org/abs/1506.06726)**
+ ### (23/03/2017):scroll: **[Skip-Thought Vectors](https://arxiv.org/abs/1506.06726)**
 
   **Citation** : Ryan Kiros, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, Sanja Fidler. NIPS 2015.
 
