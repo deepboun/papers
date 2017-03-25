@@ -7,6 +7,7 @@ List of papers that we will or did discuss during the sessions.
 | ------------- |:-------------:| -----:|
 | 30/03/2017 | Neural Multi-Source Morphological Reinflection | Onur Gungor |
 | TBA | A Convolutional Neural Network for Modelling Sentences | Çağıl Sönmez |
+| TBA | Rich feature hierarchies for accurate object detection and semantic segmentation | İlhan Adıyaman |
 
 ## Past
 
@@ -45,6 +46,18 @@ List of papers that we will or did discuss during the sessions.
   **Link:** http://aclanthology.info/papers/a-convolutional-neural-network-for-modelling-sentences
   
   **More info:** [Code](http://phd.nal.co/DCNN) [Theano implementation](https://github.com/FredericGodin/DynamicCNN) [A Sentiment Analysis tool written in Theono+Tornado](https://github.com/xiaohan2012/twitter-sent-dnn)
+  
+### (TBA):scroll: **[Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524)**
+
+  **Citation:** Ross Girshick, Jeff Donahue, Trevor Darrell, Jitendra Malik. CVPR 2014.
+
+  **From Abstract:** The best-performing methods are complex ensemble systems that typically combine multiple low-level image features with high-level context. In this paper, we propose a simple and scalable detection algorithm that improves mean average precision (mAP) by more than 30% relative to the previous best result on VOC 2012---achieving a mAP of 53.3%. Our approach combines two key insights: (1) one can apply high-capacity convolutional neural networks (CNNs) to bottom-up region proposals in order to localize and segment objects and (2) when labeled training data is scarce, supervised pre-training for an auxiliary task, followed by domain-specific fine-tuning, yields a significant performance boost. 
+
+  **Presenter:** İlhan Adıyaman
+
+  **Link:** https://arxiv.org/abs/1311.2524
+  
+  **More info:** [Implementation](https://github.com/rbgirshick/rcnn)
 
 ## Detailed List of Papers Past
 
